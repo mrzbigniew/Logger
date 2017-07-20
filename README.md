@@ -1,2 +1,1 @@
-Git repozytory for simple Logging module
-
+Git repozythory for simple Logging module
